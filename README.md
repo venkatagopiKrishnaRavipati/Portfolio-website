@@ -1,4 +1,4 @@
-# Data Atlas — Data Engineer Portfolio
+# Venkata Gopi Krishna — Data Engineer 
 
 A responsive, single-page portfolio website for **Venkata Gopi Krishna Ravipati**, built with plain HTML, CSS, and JavaScript. The design uses a professional white-and-blue palette, clean typography, subtle gradients, and responsive cards.
 
