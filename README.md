@@ -18,7 +18,7 @@ A responsive, single-page portfolio website for **Venkata Gopi Krishna Ravipati*
 ## Project structure
 
 ```text
-data-atlas-professional-website/
+professional-website/
 ├── index.html
 ├── styles.css
 ├── script.js
